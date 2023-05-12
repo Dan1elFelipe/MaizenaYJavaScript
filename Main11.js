@@ -10,3 +10,5 @@ console.log(aprender2());
 
 const flopa = (flopaAmigo)=> `hola flopa ${flopaAmigo}`
 console.log(flopa("amigo"));
+
+
